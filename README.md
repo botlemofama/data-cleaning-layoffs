@@ -20,6 +20,9 @@ The dataset contains information about layoffs across companies worldwide, inclu
 - Country
 - Funds raised (millions)
 
+Source:
+Kaggle – Tech Layoffs Dataset  
+[https://www.kaggle.com/datasets/swaptr/layoffs-2022]
 ---
 
 ## Objectives
